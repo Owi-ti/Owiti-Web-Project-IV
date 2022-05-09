@@ -1,0 +1,296 @@
+body{
+    background-color: #f9f9f9;
+    overflow-x: hidden;
+}
+
+/* main menu area */
+a{
+    text-decoration: none;
+    float: right;
+    list-style: none;
+    padding-top: 9%;
+    margin-right: 5%;
+    color: #708e88;  
+
+}
+.cont span{
+    color: #cedad7;
+}
+
+
+.container{
+    background-color: #566f6b;
+  
+ /* main menu logo */
+}
+.logo{
+    margin-left: 10%;
+    padding-top: 5%;
+} 
+/* end main menu */
+
+
+/* start homepage */
+.care{
+    margin-left: 10%;
+    margin-top: 4%;
+    padding-bottom: 13%;
+} 
+.care h1{
+    font-size: 30px;
+    color: #e7eeed;
+}   
+.care p{
+    color: #91b1aa;
+}
+.image{
+    margin-left: 30%;
+    margin-top: -32%;
+
+} 
+
+
+/* homepage buttons */
+.bt{
+    color: #e9edee;
+    font-size: 12px;
+    padding-top: 2%;
+}
+.bt h4{
+    border: solid;
+    border-radius: 25px;
+    width: 160px;
+    text-align: center;
+    height:33px;
+    padding-top: 1.5%;
+}
+.bt h5{
+    font-size: 12px;
+    margin-left: 18%;
+    margin-top: -6%;
+    border: solid;
+    border: none;
+    color: #4f645f;
+    background-color:#ffffff ;
+    border-radius: 25px;
+    width: 160px;
+    text-align: center;
+    height:33px;
+    padding-top: 1.5%;
+} 
+   /* end main menu */
+
+   /* stat ingredient area */
+.container2{
+    background-color: #f9f9f9;
+}
+.ING h1{
+    margin-left: 39%;
+    font-size: 42px;
+    padding-top: 10%;
+    color: #b5bfbc;
+}
+.image2{
+    margin-left: 35%;
+    
+}
+.Org h4{
+    margin-top: -27%;
+    margin-left: 30%;
+    color: #223530;
+}
+.Org p{
+    margin-left: 10%;
+    font-size: 15px;
+    color: #989898;
+}
+
+.Car h4{
+    margin-top: -11%;
+    margin-left: 63%;
+    color: #223530;
+}
+.Car p{
+   margin-left: 63%;
+   font-size: 15px;
+   color: #989898;
+}
+.Hdr h4{
+    margin-top: 4%;
+    margin-left: 29%;
+    color: #223530;
+}
+.Hdr p{
+    margin-left: 10%;
+    font-size: 15px;
+    color: #989898;
+}
+.Ess h4{
+    margin-top: -10%;
+    margin-left: 63%;
+    color: #223530;
+}
+.Ess p{
+    margin-left: 63%;
+    font-size: 15px;
+    color: #989898;
+}
+.Min h5{
+    margin-top: 10%;
+    margin-left: 23%;
+    font-size: 25px;
+    color: #5d6e6b;
+}
+.Min p{
+    margin-left: 29%;
+    margin-top:-1%;
+    color: #989898;
+    
+
+}
+/* end ingredient area */
+
+/* start unmissable area */
+.container3{
+    background-color: #8bbeb7;
+    
+}
+.Off{
+    margin-top: 10%;
+    margin-left: 55%;
+    padding-top: 1%;
+    color: #fdfffe;
+    padding-bottom: 3%;
+    
+}
+.Off h4{
+    border: solid;
+    border-radius: 25px;
+    border: none;
+    background-color: #ffffff;
+    color: #1e332e;
+    width: 160px;
+    text-align: center;
+    height:33px;
+    padding-top: 3%;
+    margin-top: 7%;
+    
+}
+.image3{
+    margin-top: -22%;
+    margin-left: 8%;
+
+} 
+.container5{
+    background-color: #f9f9f9;
+}
+.PRO h1{
+    margin-left: 39%;
+    font-size: 42px;
+    padding-top: 10%;
+    color: #b5bfbc;
+}
+.image4{
+
+    padding-right: 9%;
+    margin-left: 0%;
+    margin-top: 9%;
+    
+    
+    
+    
+}
+.image5{
+  margin-left: 35%;
+  margin-top: -25%;
+
+}
+.image6{
+ margin-left: 65%;
+ margin-top: -23%;
+ 
+
+ 
+}
+ /*end unmissable area  */
+
+
+ /* start people love us area */
+.container5{
+    background-color: #f9f9f9;
+}
+.US h1{
+    margin-left: 37%;
+    font-size: 42px;
+    padding-top: 10%;
+    color: #b5bfbc;
+}
+.image7{
+    
+    margin-left: 25%;
+    margin-top: 5%;
+  
+  }
+
+  .image8{
+
+    margin-left: 59%;
+    margin-top: -27.2%;
+  
+}
+.US{
+    padding-bottom: 9%;
+}
+.Name {
+     margin-left: 23%;
+}
+.Name h5{
+    color: #b8b8b8;
+    margin-left: 1%;
+}
+.Name p{
+    margin-left: -6%;
+    color: #969696;
+
+}
+.Name2 {
+    margin-left: 63%;
+    margin-top: 1%;
+    
+    }
+.Name2 h5{
+    color: #b8b8b8;
+    margin-left:-8%;
+    }
+.Name2 p{
+     margin-left: -8%;
+     color: #969696;
+}
+
+/* end of people love us area */
+
+
+/* start footer area */
+.container6{
+background-color: #e7e7e7;
+}
+.logo1{
+padding-top: 10%;
+margin-left: 11%;
+}
+.Footer{
+padding-bottom: 3%;
+}
+.Cont{
+margin-left: 25%;
+margin-top: -14%;
+}
+.Acc{
+margin-left: 50%;
+margin-top: -12%; 
+}
+.Soc{
+margin-left: 75%;
+margin-top: -9%;
+}
+/* end footer area */
